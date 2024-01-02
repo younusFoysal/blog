@@ -3,6 +3,20 @@
 }
 
 #h1{
-    font-size: larger;
+    padding: 10px;
+    align-content: center;
+    text-align: center;
+    font-size: 30px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#notice{
+    background-color: lightsalmon;
+    border-radius: 7px;
+    border-left: 7px solid red;
+    box-shadow: 5px 5px 10px lightsalmon;
+    padding: 5px;
+    margin-bottom: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: aliceblue;
 }
